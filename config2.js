@@ -11,10 +11,7 @@ System.config({
   },
   paths: {
     "github:*": "https://cdn.rawgit.com/aurelia-ui-toolkits/aurelia-syncfusion-bundles/0.0.2/jspm_packages/github/*",
-    "npm:*": "https://cdn.rawgit.com/aurelia-ui-toolkits/aurelia-syncfusion-bundles/0.0.2/jspm_packages/npm/*",
-    "common/ej.*": "https://rawgit.com/aurelia-ui-toolkits/aurelia-syncfusion-bundles/0.0.2/jspm_packages/npm/syncfusion-javascript@15.1.37/Scripts/ej/common/ej.*.js",
-    "datavisualization/ej.*": "https://rawgit.com/aurelia-ui-toolkits/aurelia-syncfusion-bundles/0.0.2/jspm_packages/npm/syncfusion-javascript@15.1.37/Scripts/ej/datavisualization/ej.*.js",
-    "ej.*": "https://rawgit.com/aurelia-ui-toolkits/aurelia-syncfusion-bundles/0.0.2/jspm_packages/npm/syncfusion-javascript@15.1.37/Scripts/ej/web/ej.*.js",
+    "npm:*": "https://cdn.rawgit.com/aurelia-ui-toolkits/aurelia-syncfusion-bundles/0.0.2/jspm_packages/npm/*",    
     "syncfusion-javascript/*": "https://rawgit.com/aurelia-ui-toolkits/aurelia-syncfusion-bundles/0.0.2/npm/syncfusion-javascript@15.1.37/*",
     "bundles/bundle.js": "https://cdn.rawgit.com/aurelia-ui-toolkits/aurelia-syncfusion-bundles/0.0.2/bundles/bundle.js"
   },
